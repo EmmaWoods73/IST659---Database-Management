@@ -9,3 +9,5 @@ Also specified are the business rules that dictate how the data is to be managed
 
 Implementation of the database design is also described, including the SQl statements used to create the tables and
 and columns to constrain the data, and the database rules used.
+
+Code written in SQL.
