@@ -1,6 +1,6 @@
 # IST659---Database-Management
 
-The aim of this project is the design and implementation a database in order to solve a business data management problem.  
+The aim of this project is the design and implementation of a database in order to solve a business data management problem.  
 Following identification of stakeholders and the data they will need to access and maintain, the database is constructed
 in order to answer five data questions.
 
