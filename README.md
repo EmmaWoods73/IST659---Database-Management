@@ -12,4 +12,5 @@ Platforms used: Microsoft SQL Server, MS Access, R
 
 Key skills: Database design, Database Implementation, Reports using MS Access and R
 
-To access this project: .docx contains project details, diagrams and print outs of final output.
+To access this project: 1) .docx contains project details, diagrams and print outs of final output.
+                        2) IST659_Deliverable2_SQLCode_61519.docx contains all SQL code
