@@ -11,3 +11,5 @@ and columns to constrain the data, and the database rules utilized.
 Platforms used: Microsoft SQL Server, MS Access, R
 
 Key skills: Database design, Database Implementation, Reports using MS Access and R
+
+To access this project: .docx contains project details, diagrams and print outs of final output.
