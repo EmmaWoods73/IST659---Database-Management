@@ -1,4 +1,5 @@
-# IST659---The Advertising Network: A Database from Design through Implementation
+# IST659---Data Admin Concepts & Database Management
+THE ADVERTISING NETWORK: A DATABASE FROM DESIGN THROUGH IMPLEMENTATION
 
 The aim of this project was the design and implementation of a database in order to solve a business data management problem. Following identification of stakeholders and the data they need to access and maintain, a SQL database is constructed in order to answer five specific data questions.
 
@@ -13,5 +14,5 @@ Platforms used: Microsoft SQL Server, MS Access, R
 KEY SKILLS: Database design, Database Implementation, Reports using MS Access and R
 
 TO ACCESS THIS PROJECT
-1) "IST659_Project2_Deliverable_061519.docx" contains project details, diagrams and printouts of final output.
-2) "IST659_Deliverable2_SQLCode_61519.docx" contains all SQL code.
+1) "IST659_Project2_Deliverable_061519.docx" contains project details, diagrams and printouts of final output
+2) "IST659_Deliverable2_SQLCode_61519.docx" contains all SQL code
